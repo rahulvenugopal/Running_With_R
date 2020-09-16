@@ -35,7 +35,7 @@
    An intermediate]advanced R course
    Intro - Linear Regression - Interactions and factors - Regression with binary outcomes
    Multilevel modeling - Exercise solutions - Wrapup
-2. 
+2. [Linear models - Quick peek](https://data.princeton.edu/r/linearmodels)
 
 ---
 
