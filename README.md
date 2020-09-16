@@ -14,7 +14,7 @@
 1. [Coding club](https://ourcodingclub.github.io/) has pretty neat tutorials to pick up R
    
    R basics - Data manipulation - Data visualisation - Modelling
-   Spatial data - Reproducible research
+   Spatial data - Reproducible research -
    Google search engine - Python - Fortran
    
 2. 
@@ -37,7 +37,7 @@
    
    An intermediate]advanced R course
    Intro - Linear Regression - Interactions and factors - Regression with binary outcomes
-   Multilevel modeling - Exercise solutions - Wrapup
+   Multilevel modeling - Exercise solutions - Wrap up
    
 2. [Linear models - Quick peek](https://data.princeton.edu/r/linearmodels) :mortar_board:
 
@@ -46,7 +46,11 @@
 
 4. [Statistical Thinking for the 21st Century](https://statsthinking21.org/) from Russ Poldrack :books: :mortar_board:
 
-5. [Discovering statistics using R](https://www.discoveringstatistics.com/) from Andy Field
+5. [Discovering statistics using R](https://www.discoveringstatistics.com/) from Andy Field :books:
+
+6. [Psych 252: Statistical Methods for Behavioral and Social Sciences](https://web.stanford.edu/class/psych252/#) :mortar_board:
+
+   Book is [here](https://psych252.github.io/psych252book/)
 
 ---
 
