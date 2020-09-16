@@ -7,6 +7,4 @@
 
 :page_with_curl:Feel free to report your suggestions, feedbacks etc. Be nice, Be respectful
 
-```
-![Be grateful](https://github.com/rahulvenugopal/Running_With_R/blob/master/images/dependency.png)
-```
+![Be grateful] https://github.com/rahulvenugopal/Running_With_R/blob/master/images/dependency.png)
