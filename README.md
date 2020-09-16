@@ -9,12 +9,14 @@
 
 ![Be grateful](https://github.com/rahulvenugopal/Running_With_R/blob/master/images/dependency.png)
 
-#### Where did I begin?
+#### Where do I begin?
 
 1. [Coding club](https://ourcodingclub.github.io/) has pretty neat tutorials to pick up R
+   
    R basics - Data manipulation - Data visualisation - Modelling
    Spatial data - Reproducible research
    Google search engine - Python - Fortran
+   
 2. 
 
 
@@ -29,13 +31,13 @@
 
 ----
 
-#### Books :books: | Courses :video_camera: | Papers :page_facing_up: | Blogs :book:
+#### Books :books: | Courses ::mortar_board: | Papers :page_facing_up: | Blogs :book:
 
-1. [R regression models workshop notes](http://tutorials.iq.harvard.edu/R/Rstatistics/Rstatistics.html#introduction)
+1. [R regression models workshop notes](http://tutorials.iq.harvard.edu/R/Rstatistics/Rstatistics.html#introduction) :mortar_board:
    An intermediate]advanced R course
    Intro - Linear Regression - Interactions and factors - Regression with binary outcomes
    Multilevel modeling - Exercise solutions - Wrapup
-2. [Linear models - Quick peek](https://data.princeton.edu/r/linearmodels)
+2. [Linear models - Quick peek](https://data.princeton.edu/r/linearmodels) :mortar_board:
 
 ---
 
