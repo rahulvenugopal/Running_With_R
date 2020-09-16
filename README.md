@@ -11,7 +11,11 @@
 
 #### Where did I begin?
 
-[Coding club] (https://ourcodingclub.github.io/) has pretty neat tutorials to pick up R
+1. [Coding club](https://ourcodingclub.github.io/) has pretty neat tutorials to pick up R
+   R basics - Data manipulation - Data visualisation - Modelling
+   Spatial data - Reproducible research
+   Google search engine - Python - Fortran
+2. 
 
 
 
@@ -19,11 +23,27 @@
 
 #### Selected readings to broaden the understanding
 
-
+1. [Why ANOVA and Linear Regression are the Same Analysis](https://www.theanalysisfactor.com/why-anova-and-linear-regression-are-the-same-analysis/)
+2. [Understanding Diagnostic Plots for Linear Regression Analysis](https://data.library.virginia.edu/diagnostic-plots/)
+3. 
 
 ----
 
-#### Books :books: | Courses :video_camera: | Papers :page_facing_up:
+#### Books :books: | Courses :video_camera: | Papers :page_facing_up: | Blogs :book:
+
+1. [R regression models workshop notes](http://tutorials.iq.harvard.edu/R/Rstatistics/Rstatistics.html#introduction)
+   An intermediate]advanced R course
+   Intro - Linear Regression - Interactions and factors - Regression with binary outcomes
+   Multilevel modeling - Exercise solutions - Wrapup
+2. 
+
+---
+
+#### Video Tutorials | Interesting stuff
+
+---
+
+#### Homo sapiens who significantly (p<0.05 :laughing:) contributed to my learning
 
 
 
