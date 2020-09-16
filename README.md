@@ -9,3 +9,21 @@
 
 ![Be grateful](https://github.com/rahulvenugopal/Running_With_R/blob/master/images/dependency.png)
 
+#### Where did I begin?
+
+[Coding club] (https://ourcodingclub.github.io/) has pretty neat tutorials to pick up R
+
+
+
+----
+
+#### Selected readings to broaden the understanding
+
+
+
+----
+
+#### Books :books: | Courses :video_camera: | Papers :page_facing_up:
+
+
+
