@@ -25,7 +25,7 @@
 
 1. [Why ANOVA and Linear Regression are the Same Analysis](https://www.theanalysisfactor.com/why-anova-and-linear-regression-are-the-same-analysis/)
 2. [Understanding Diagnostic Plots for Linear Regression Analysis](https://data.library.virginia.edu/diagnostic-plots/)
-3. 
+3. [Linear models Intro](https://data.princeton.edu/r/linearmodels)
 
 ----
 
