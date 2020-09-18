@@ -1,4 +1,4 @@
-# Running with R
+﻿# Running with R
 :page_with_curl: This repo is currently aimed at providing quick help for myself when I get stuck using R
 
 :page_with_curl: The sources are pooled from various learning tutorials, blogs, courses, discussions, friendly chats etc. Some are from my own experiments
@@ -44,6 +44,8 @@
 3. Open online [**Introduction to R course**](http://www.wvbauer.com/doku.php/course_oor) from [Wolfgang Viechtbauer](http://www.wvbauer.com/doku.php/home) ([metafor](http://www.metafor-project.org/doku.php) package fame)
    Starting on 16.09.2020 :mortar_board:
 
+   Day 2 of the course teaches graphing using base R. I think tidyverse based graphing is easier for beginners
+   
 4. [Statistical Thinking for the 21st Century](https://statsthinking21.org/) from Russ Poldrack :books: :mortar_board:
 
 5. [Discovering statistics using R](https://www.discoveringstatistics.com/) from Andy Field :books:
@@ -52,11 +54,23 @@
 
    Book is [here](https://psych252.github.io/psych252book/)
 
+7. [The R Graph Gallery](https://www.r-graph-gallery.com/) - Good guide to create different types of graphs :book:
+
+   Distribution - Correlation - Ranking - Part of whole - Evolution - Map - Flow
+
+   Animation - Interactivity - 3D - Caveats - Data art
+
+8. [STHDA - Statistical tools for high-throughput data analysis](http://www.sthda.com/english/) :book:
+
+   This is an epic resource to bookmark and revisit multiple times - a training website on data science
+
+9. [Extract and Visualize the Results of Multivariate Data Analyses](https://rpkgs.datanovia.com/factoextra/)
+
 ---
 
-#### Video Tutorials | Interesting stuff
+#### Video Tutorials | Interesting stuff | Opinion Pieces
 
-1. 
+1. [Teach the tidyverse to beginners](http://varianceexplained.org/r/teach-tidyverse/)
 
 ---
 
