@@ -66,6 +66,9 @@
 
 9. [Extract and Visualize the Results of Multivariate Data Analyses](https://rpkgs.datanovia.com/factoextra/)
 
+10. [Computing and Statistics Workshops](https://opr.princeton.edu/workshops/)
+Data, Explanations, Code are available
+
 ---
 
 #### Video Tutorials | Interesting stuff | Opinion Pieces
