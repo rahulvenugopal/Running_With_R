@@ -17,9 +17,7 @@
    Spatial data - Reproducible research -
    Google search engine - Python - Fortran
    
-2. 
-
-
+2. [Two way ANOVA by hand](https://www.youtube.com/watch?v=V_fKD1jqHyk)
 
 ----
 
