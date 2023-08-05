@@ -27,6 +27,11 @@
 
 ----
 
+#### Training/Teaching
+1. [A teaching tools that can help you incorporate R into your teaching, especially with beginning coders](https://github.com/allisonhorst/qmss-r-teaching-tools)
+2. [ESM 206 Fall 2021 R Labs](https://github.com/allisonhorst/esm206-f2021-labs)
+3. [A curated collection of free resources to help deepen your understanding of the R programming language](https://github.com/iamericfletcher/awesome-r-learning-resources)
+
 #### Books :books: | Courses ::mortar_board: | Papers :page_facing_up: | Blogs :book:
 
 1. [R regression models workshop notes](http://tutorials.iq.harvard.edu/R/Rstatistics/Rstatistics.html#introduction) :mortar_board:
