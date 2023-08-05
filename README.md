@@ -15,8 +15,7 @@
    
    R basics - Data manipulation - Data visualisation - Modelling
    Spatial data - Reproducible research -
-   Google search engine - Python - Fortran
-   
+   Google search engine - Python - Fortran   
 2. [Two way ANOVA by hand](https://www.youtube.com/watch?v=V_fKD1jqHyk)
 
 ----
@@ -25,7 +24,6 @@
 
 1. [Why ANOVA and Linear Regression are the Same Analysis](https://www.theanalysisfactor.com/why-anova-and-linear-regression-are-the-same-analysis/)
 2. [Understanding Diagnostic Plots for Linear Regression Analysis](https://data.library.virginia.edu/diagnostic-plots/)
-3. [Linear models Intro](https://data.princeton.edu/r/linearmodels)
 
 ----
 
@@ -33,7 +31,7 @@
 
 1. [R regression models workshop notes](http://tutorials.iq.harvard.edu/R/Rstatistics/Rstatistics.html#introduction) :mortar_board:
    
-   An intermediate]advanced R course
+   An intermediate/advanced R course
    Intro - Linear Regression - Interactions and factors - Regression with binary outcomes
    Multilevel modeling - Exercise solutions - Wrap up
    
