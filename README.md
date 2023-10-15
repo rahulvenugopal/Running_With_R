@@ -1,22 +1,15 @@
 ﻿# Running with R
-:page_with_curl: This repo is currently aimed at providing quick help for myself when I get stuck using R
-
-:page_with_curl: The sources are pooled from various learning tutorials, blogs, courses, discussions, friendly chats etc. Some are from my own experiments
-
-:page_with_curl:This would always be a work in progress and never complete
-
-:page_with_curl:Feel free to report your suggestions, feedbacks etc. Be nice, Be respectful
+:page_with_curl: This repo is currently aimed at providing quick help for myself when I get stuck using R. The sources are pooled from various learning tutorials, blogs, courses, discussions, friendly chats etc. Some are from my own experiments. This would always be a work in progress and never complete. Feel free to report your suggestions, feedbacks etc. Be nice, Be respectful
 
 ![Be grateful](https://github.com/rahulvenugopal/Running_With_R/blob/master/images/dependency.png)
 
 #### Where do I begin?
 
-1. [Coding club](https://ourcodingclub.github.io/) has pretty neat tutorials to pick up R
-   
+1. [Coding club](https://ourcodingclub.github.io/) has pretty neat tutorials to pick up R   
    R basics - Data manipulation - Data visualisation - Modelling
    Spatial data - Reproducible research -
    Google search engine - Python - Fortran   
-2. [Two way ANOVA by hand](https://www.youtube.com/watch?v=V_fKD1jqHyk)
+2. [Two way ANOVA by hand](https://www.youtube.com/watch?v=V_fKD1jqHyk). It is important to develop intuitions behind the tools. Having three experimental groups is **should not** be the only reason to run ANOVA model. Bookmark videos like this and teach them to your students
 
 ----
 
@@ -28,54 +21,34 @@
 ----
 
 #### Training/Teaching
-1. [A teaching tools that can help you incorporate R into your teaching, especially with beginning coders](https://github.com/allisonhorst/qmss-r-teaching-tools)
+1. [A set of tools that can help you incorporate R into your teaching, especially with beginning coders](https://github.com/allisonhorst/qmss-r-teaching-tools)
 2. [ESM 206 Fall 2021 R Labs](https://github.com/allisonhorst/esm206-f2021-labs)
 3. [A curated collection of free resources to help deepen your understanding of the R programming language](https://github.com/iamericfletcher/awesome-r-learning-resources)
 4. [University of Glasgow | Reproducible research using R across all undergraduate and postgraduate levels](https://psyteachr.github.io/)
 
 #### Books :books: | Courses ::mortar_board: | Papers :page_facing_up: | Blogs :book:
 
-1. [R regression models workshop notes](http://tutorials.iq.harvard.edu/R/Rstatistics/Rstatistics.html#introduction) :mortar_board:
-   
+1. [R regression models workshop notes](http://tutorials.iq.harvard.edu/R/Rstatistics/Rstatistics.html#introduction) :mortar_board:   
    An intermediate/advanced R course
    Intro - Linear Regression - Interactions and factors - Regression with binary outcomes
-   Multilevel modeling - Exercise solutions - Wrap up
-   
+   Multilevel modeling - Exercise solutions - Wrap up   
 2. [Linear models - Quick peek](https://data.princeton.edu/r/linearmodels) :mortar_board:
-
 3. Open online [**Introduction to R course**](http://www.wvbauer.com/doku.php/course_oor) from [Wolfgang Viechtbauer](http://www.wvbauer.com/doku.php/home) ([metafor](http://www.metafor-project.org/doku.php) package fame)
    Starting on 16.09.2020 :mortar_board:
 
-   Day 2 of the course teaches graphing using base R. I think tidyverse based graphing is easier for beginners
-   
+   Day 2 of the course teaches graphing using base R. I think tidyverse based graphing is easier for beginners   
 4. [Statistical Thinking for the 21st Century](https://statsthinking21.org/) from Russ Poldrack :books: :mortar_board:
-
 5. [Discovering statistics using R](https://www.discoveringstatistics.com/) from Andy Field :books:
-
 6. [Psych 252: Statistical Methods for Behavioral and Social Sciences](https://web.stanford.edu/class/psych252/#) :mortar_board:
-
    Book is [here](https://psych252.github.io/psych252book/)
-
 7. [The R Graph Gallery](https://www.r-graph-gallery.com/) - Good guide to create different types of graphs :book:
-
-   Distribution - Correlation - Ranking - Part of whole - Evolution - Map - Flow
-
-   Animation - Interactivity - 3D - Caveats - Data art
-
+   Distribution - Correlation - Ranking - Part of whole - Evolution - Map - Flow - Animation - Interactivity - 3D - Caveats - Data art
 8. [STHDA - Statistical tools for high-throughput data analysis](http://www.sthda.com/english/) :book:
-
-   This is an epic resource to bookmark and revisit multiple times - a training website on data science
-
+   This is an great resource to bookmark and revisit multiple times - a training website on data science
 9. [Extract and Visualize the Results of Multivariate Data Analyses](https://rpkgs.datanovia.com/factoextra/)
-
 10. [Computing and Statistics Workshops](https://opr.princeton.edu/workshops/)
 Data, Explanations, Code are available
-
----
-
-#### Video Tutorials | Interesting stuff | Opinion Pieces
-
-1. [Teach the tidyverse to beginners](http://varianceexplained.org/r/teach-tidyverse/)
+11. [Teach the tidyverse to beginners](http://varianceexplained.org/r/teach-tidyverse/)
 
 ---
 
@@ -100,7 +73,8 @@ Data, Explanations, Code are available
 17. [Georgios Karamanis](https://twitter.com/geokaramanis)
 18. [Jack Davison](https://twitter.com/JDavison_)
 19. [We are R-Ladies](https://twitter.com/WeAreRLadies)
-20. [Allison Horst](https://t.co/7w8ECOcN4M?amp=1) - Wonderful teaching [illustrations](https://t.co/7w8ECOcN4M?amp=1) from resident artist at RStudio!
+20. [Allison Horst](https://t.co/7w8ECOcN4M?amp=1) - Wonderful teaching [illustrations](https://t.co/7w8ECOcN4M?amp=1) from former resident artist at RStudio!
+21. [Tanya Shapiro](https://www.tanyashapiro.com/)
 
 
 
