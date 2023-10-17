@@ -49,6 +49,7 @@
 10. [Computing and Statistics Workshops](https://opr.princeton.edu/workshops/)
 Data, Explanations, Code are available
 11. [Teach the tidyverse to beginners](http://varianceexplained.org/r/teach-tidyverse/)
+12. [Understanding text size and resolution in ggplot2](https://www.christophenicault.com/post/understand_size_dimension_ggplot2/)
 
 ---
 
