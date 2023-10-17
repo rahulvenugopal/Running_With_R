@@ -77,3 +77,4 @@ Data, Explanations, Code are available
 21. [Tanya Shapiro](https://www.tanyashapiro.com/)
 22. [Garrick Aden-Buie](https://www.garrickadenbuie.com/)
 23. [Albert Rapp](https://albert-rapp.de/)
+24. [Christophe Nicault](https://www.christophenicault.com)
