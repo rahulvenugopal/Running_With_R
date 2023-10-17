@@ -76,3 +76,4 @@ Data, Explanations, Code are available
 20. [Allison Horst](https://t.co/7w8ECOcN4M?amp=1) - Wonderful teaching [illustrations](https://t.co/7w8ECOcN4M?amp=1) from former resident artist at RStudio!
 21. [Tanya Shapiro](https://www.tanyashapiro.com/)
 22. [Garrick Aden-Buie](https://www.garrickadenbuie.com/)
+23. [Albert Rapp](https://albert-rapp.de/)
